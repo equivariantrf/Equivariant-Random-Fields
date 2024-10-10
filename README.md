@@ -1,3 +1,5 @@
 # Equivariant-Random-Fields
 Code for the experimental results of the paper "integration free kernels for equivariant Gaussian process modelling".
 The code is presented in an R markdown document at https://equivariantrf.github.io/Equivariant-Random-Fields/Notebook_equivariant_RFs.html. 
+
+The data is a available here: https://github.com/equivariantrfs2/Equivariant-random-fields-data.
